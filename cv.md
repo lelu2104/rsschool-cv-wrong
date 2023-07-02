@@ -34,16 +34,16 @@
 
 ## EDUCATION AND COURSES
 
-RS school 0 level (in process)
-QA trainings
+- RS school 0 level (in process)
+- QA trainings
 
 ***********
 ***********
 
 ## LANGUAGES
 
-Russian - native 
-English - B2 
+- Russian - native 
+- English - B2 
 
 ***********
 ***********
