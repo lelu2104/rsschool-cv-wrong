@@ -11,7 +11,6 @@
 * phone number: +375295429764
 * email: elena.dubrouskaya@gmail.com
 * location: Minsk
-* Github: 
 
 ***********
 ***********
